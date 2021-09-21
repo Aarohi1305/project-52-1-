@@ -1,0 +1,41 @@
+html{
+    margin: 20px;
+    padding-left: 10px;
+}
+
+h1{ 
+    text-align: center;
+    color: lightcoral ;
+    background-color: lightslategrey;
+}
+.item{
+    background-color: lightcyan;
+    border: solid;
+   
+    
+}
+p{
+    color:rgb(142, 90, 245);
+    font-family: Arial ;
+}
+ol{
+    color:rgb(59, 31, 216);
+}
+.nice{
+    color:mediumturquoise;
+    padding: 10px;
+}
+a{
+    color:magenta;
+}
+h3{
+    text-align: center;
+    color: mediumblue;
+}
+.color{
+    color:rgb(11, 118, 241);
+    text-align: center;
+}
+b{
+    font-family:cursive;
+}
